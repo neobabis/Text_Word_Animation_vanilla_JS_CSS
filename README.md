@@ -1,0 +1,1 @@
+# Text_Word_Animation_vanilla_JS_CSS
